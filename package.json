@@ -1,0 +1,24 @@
+{
+  "name": "circles",
+  "version": "1.0.0",
+  "description": "An application that uses canvas to make circle and sound on the screen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebizimana/circles.git"
+  },
+  "author": "Elie Bizimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebizimana/circles/issues"
+  },
+  "homepage": "https://github.com/ebizimana/circles#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
